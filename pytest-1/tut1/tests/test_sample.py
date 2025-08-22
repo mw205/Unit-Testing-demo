@@ -1,3 +1,7 @@
+# In this test file, we have two test functions: 
+# test_add_num and test_add_str. 
+# These functions are used to test the add function defined in the sample module.
+
 from tut1.myapp.sample import add
 
 
