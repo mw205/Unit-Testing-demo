@@ -1,0 +1,26 @@
+2026-05-23 13:24:11,930 - TaskManagerLogger - INFO - Task created: New Task
+2026-05-23 13:24:11,930 - TaskManagerLogger - INFO - Task created: New Task
+2026-05-23 13:24:11,931 - TaskManagerLogger - ERROR - Error creating task: All fields (title, description, due_date) are required.
+2026-05-23 13:24:11,931 - TaskManagerLogger - ERROR - Error creating task: All fields (title, description, due_date) are required.
+2026-05-23 13:24:11,932 - TaskManagerLogger - INFO - Task deleted: Test Task 1
+2026-05-23 13:24:11,932 - TaskManagerLogger - INFO - Task deleted: Test Task 1
+2026-05-23 13:24:11,932 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2026-05-23 13:24:11,932 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2026-05-23 13:24:11,933 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2026-05-23 13:24:11,933 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2026-05-23 13:24:11,933 - TaskManagerLogger - INFO - Listing all tasks.
+2026-05-23 13:24:11,933 - TaskManagerLogger - INFO - Listing all tasks.
+2026-05-23 13:24:11,933 - TaskManagerLogger - WARNING - Data source file 'no_file.json' not found.  Starting with empty task list.
+2026-05-23 13:24:11,933 - TaskManagerLogger - WARNING - Data source file 'no_file.json' not found.  Starting with empty task list.
+2026-05-23 13:24:11,935 - TaskManagerLogger - ERROR - Error decoding JSON in 'invalid.json'. Starting with empty task list.
+2026-05-23 13:24:11,935 - TaskManagerLogger - ERROR - Error decoding JSON in 'invalid.json'. Starting with empty task list.
+2026-05-23 13:24:11,937 - TaskManagerLogger - INFO - Tasks loaded from file.
+2026-05-23 13:24:11,937 - TaskManagerLogger - INFO - Tasks loaded from file.
+2026-05-23 13:24:11,939 - TaskManagerLogger - INFO - Tasks saved to file.
+2026-05-23 13:24:11,939 - TaskManagerLogger - INFO - Tasks saved to file.
+2026-05-23 13:24:11,940 - TaskManagerLogger - INFO - Task updated: Updated Title
+2026-05-23 13:24:11,940 - TaskManagerLogger - INFO - Task updated: Updated Title
+2026-05-23 13:24:11,940 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2026-05-23 13:24:11,940 - TaskManagerLogger - WARNING - Task with ID 99 not found.
+2026-05-23 13:24:11,941 - TaskManagerLogger - ERROR - Error updating task: All fields (title, description, due_date, status) are required for update.
+2026-05-23 13:24:11,941 - TaskManagerLogger - ERROR - Error updating task: All fields (title, description, due_date, status) are required for update.
